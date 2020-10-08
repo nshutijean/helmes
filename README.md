@@ -47,7 +47,7 @@ CGO_ENABLED=0 go build -o bin/helmes ./cmd/helmes
 ls bin
 ```
 
-For convience your could install [task](https://taskfile.dev/) a make alternative then:
+For convinience, you could install [task](https://taskfile.dev/) a make alternative then:
 ```
 # it will build your binary and start the helmes server
 task run 
